@@ -1,4 +1,4 @@
-### Hi 👋
+### Hello 👋
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jundong-gao&show_icons=true&theme=dark&count_private=true)
